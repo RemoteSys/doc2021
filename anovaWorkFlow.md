@@ -5,7 +5,7 @@
 
 
 1. `data` - *dict*, {czynnik1: [...], czynnik2: [...], wyniki: [....])
-2. `sr` - *float*, średnia ogólna ($\bar{x}$)
+2. `sr` - *float*, średnia ogólna (\(\bar{x}\))
 
 ---
 
@@ -18,7 +18,7 @@
 
 2. `srGr` - *dict*, {grupa1: (nj, sri), grupa2: (nj, sri), ... }
 
-    >liczności i średnie w grupach  ($\bar{x_j}$)
+    >liczności i średnie w grupach  (\(\bar{x_j}\))
 
 
 
